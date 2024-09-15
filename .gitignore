@@ -1,0 +1,5 @@
+Backup
+media
+train
+*.*.toe
+model.keras
